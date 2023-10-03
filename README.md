@@ -15,11 +15,11 @@ Scraped metrics are then stored in a time series database which can be queried u
 <H1>CloudWatch</H1>
 <img width="1080" alt="Screenshot 2023-09-23 154028" src="https://github.com/sc3p73r-it/prometheus/assets/140035139/8971a5c2-4730-497b-b6da-0a8295d53970"> </br></br></br>
 
-<H1>Linux Node</H1>
-<img width="1080" alt="Screenshot 2023-09-23 154117" src="https://github.com/sc3p73r-it/prometheus/assets/140035139/ec4f4ced-a125-4e47-ba6a-76efa8542594">  </br></br></br>
+<H1>Linux Node 1</H1>
+<img width="1080" alt="Screenshot 2023-09-23 154117" src="https://github.com/sc3p73r-it/prometheus/assets/140035139/7e38f985-1c66-4b77-93d4-dbe5e6bb10eb"> </br></br></br>
 
-<H1>Linux Node</H1>
-<img width="1080" alt="Screenshot 2023-09-23 154149" src="https://github.com/sc3p73r-it/prometheus/assets/140035139/5400e718-625e-45c8-b62d-bf450ffdd085">  </br></br></br>
+<H1>Linux Node 2</H1>
+<img width="1080" alt="Screenshot 2023-09-23 154149" src="https://github.com/sc3p73r-it/prometheus/assets/140035139/5d9ef67b-945f-41e5-bee2-d2b33ee39969"> </br></br></br>
 
 <H1>Windows Server</H1>
 <img width="1080" alt="Screenshot 2023-09-23 154241" src="https://github.com/sc3p73r-it/prometheus/assets/140035139/be9defc2-36a3-491f-9eb6-0bddaeb6fec6"> </br></br></br>
