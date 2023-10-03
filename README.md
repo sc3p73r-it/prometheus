@@ -1,4 +1,4 @@
-<H1>@Prometheus</H1>
+<H1>@Prometheus and Grafana</H1>
 <p>Prometheus is an open-source monitoring tool that collects metrics data, and provide tools to visualize the collected data​
 In additions, Prometheus allows you to generate alerts when metrics reach a user specified threshold​
 
