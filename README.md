@@ -1,4 +1,11 @@
-<H1>@Prometheus</H1> </br></br></br>
+<H1>@Prometheus</H1>
+<p>Prometheus is an open-source monitoring tool that collects metrics data, and provide tools to visualize the collected data​
+In additions, Prometheus allows you to generate alerts when metrics reach a user specified threshold​
+
+Prometheus collets metrics by scraping targets who expose metrics through an HTTP endpoint​
+
+Scraped metrics are then stored in a time series database which can be queried using Prometheus built-in query language PromQl​</p>
+
 <H1>Amazon RDS</H1>
 <img width="1077" alt="Screenshot 2023-09-23 153902" src="https://github.com/sc3p73r-it/prometheus/assets/140035139/dfd3269c-55b9-48da-ac13-a8d409296756"> </br></br></br>
 
