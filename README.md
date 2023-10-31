@@ -32,3 +32,6 @@ Scraped metrics are then stored in a time series database which can be queried u
 
 <H1>Data Source</H1>
 <img width="1080" alt="Screenshot 2023-09-23 154711" src="https://github.com/sc3p73r-it/prometheus/assets/140035139/29c5440a-dbbc-4227-8ecc-53c67f427925"> </br></br></br>
+
+<H1>PostgreSQL Database</H1>
+<img width="1080" src="https://github.com/sc3p73r-it/prometheus/assets/140035139/5bc010a6-cc21-4e9c-aa49-136819de292c">
