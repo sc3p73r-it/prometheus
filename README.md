@@ -7,7 +7,7 @@ Prometheus collets metrics by scraping targets who expose metrics through an HTT
 Scraped metrics are then stored in a time series database which can be queried using Prometheus built-in query language PromQl​</p>
 
 <H1>Amazon RDS</H1>
-<img width="1077" alt="Screenshot 2023-09-23 153902" src="https://github.com/sc3p73r-it/prometheus/assets/140035139/dfd3269c-55b9-48da-ac13-a8d409296756"> </br></br></br>
+<img width="1080" alt="Screenshot 2023-09-23 153902" src="https://github.com/sc3p73r-it/prometheus/assets/140035139/dfd3269c-55b9-48da-ac13-a8d409296756"> </br></br></br>
 
 <H1>Amazon S3</H1>
 <img width="1080" alt="Screenshot 2023-09-23 153946" src="https://github.com/sc3p73r-it/prometheus/assets/140035139/19dd184b-d5e5-48bf-a32c-87c4e0c621f5"> </br></br></br>
